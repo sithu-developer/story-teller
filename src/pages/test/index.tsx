@@ -44,10 +44,3 @@ export default testPage;
 
 const Soe = { name : "Soe Thiri" , age : 21 , gender : "female" }; // <= object 
 
-// Soe is variable
-
-Soe.name   // normal taking keys
-Soe.gender
-Soe.age
-
-const { name , gender , age } = Soe;  // destructure
